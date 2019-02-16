@@ -1,2 +1,2 @@
 # cws
-RESTFUL web service basic on Tornado
+CWS is a RESTFUL web service basic on Tornado, writen in Python
